@@ -36,6 +36,10 @@
 ---
 ## OUTPUT
 
+<img width="472" height="218" alt="image" src="https://github.com/user-attachments/assets/e59b4c83-9e81-4851-b550-629c8467a176" />
+
+<img width="1917" height="1198" alt="image" src="https://github.com/user-attachments/assets/38372154-4e48-4880-a472-7e3ddc61b588" />
+
 
 
 
